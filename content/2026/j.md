@@ -10,7 +10,7 @@ What's this? An early newsletter? Yes, that's right - this way, the newsletter c
 * Flo. M. wrote a song [⚂reflecting their faith](https://www.youtube.com/watch?v=PjE27orIzVM) ([⚂French subtitles](https://www.youtube.com/watch?v=laB5FbUFSS0))!
 * harkbeat made a cover of [telo sewi](https://www.youtube.com/watch?v=nBvl-OoTghQ) by tori-pochun!
 * jan Ansi translated [What is Love](https://www.youtube.com/watch?v=W--MgCNCq2s) by Twice!
-* katyj98 translated [⚂Memories With You Again](https://www.youtube.com/watch?v=RM_MciVvoeg)!
+* leko Leki translated [⚂Memories With You Again](https://www.youtube.com/watch?v=RM_MciVvoeg)!
 * Hazar made a dub of an Animaniacs song [Yakko's World](https://www.youtube.com/watch?v=KoScwqx_HRE)!
 * VocaStats showed the [most viewed Vocaloid song in every language](https://www.youtube.com/watch?v=jmHrUTiDzJ0&t=847s) - can you guess which one it is for toki pona, at over 100 000 views?
 
