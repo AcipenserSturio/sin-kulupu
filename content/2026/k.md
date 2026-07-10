@@ -6,14 +6,14 @@ date: '2026-07-10'
 
 Today's newsletter comes to you with a surplus of games! But let that not distract you from all the other amazing stuff people have been working on - check it out:
 
-### Community projects!
+### Community projects
 * The annual [suno pi toki pona](https://suno.pona.la/) event is a 24h live stream celebrating toki pona's birthday. Do you have something to present? Do you want to help organise? Do you want to play games? Do you want to contribute a video? Do you want to play or listen to music? Any ideas for activities or booths? [Fill in the form](https://forms.gle/NiywJuGRrtPf8rWu7)! The event is scheduled for August 8, 5:27 AM—August 9, 5:27 AM UTC
 * [kulupu pi ma Oselasija](https://discord.com/invite/jtbeutmEKC) is a toki pona server for Oceanians!
 * The [European meetup](https://mallonge.net/maelopa2026) has added options for extra trips: buses to/from the hostel at the first/last day, to the path of totality of the eclipse, to Subirats and Sitges, to Barcelona, to Tossa de Mar and Girona
 * [Here](https://forms.gle/63RmMsj3v5aEeFNj9) is a form you can fill out with a couple of sentences to translate from toki pona to English, for research purposes!
 * Last minute call to submit texts to the [annual writing contest](https://utala.pona.la): You have until THIS SUNDAY when the newsletter goes out!
 
-### Songs!
+### Songs
 * jan Sowape wrote [kasi suli mute](https://www.youtube.com/watch?v=F936gRpT_sQ), a song about a [forest](https://www.youtube.com/watch?v=wT7jD0v6u_E)!
 * jan Nikita translated [Луч солнца золотого](https://www.youtube.com/watch?v=VBIf8VJ9ofg) from the movie On the Trail of the Bremen Town Musicians!
 * Basil Bagel translated the Deltarune song [Cutie Mew Mew Magic](https://www.youtube.com/watch?v=tV3U1y5s7vw)!
@@ -21,14 +21,14 @@ Today's newsletter comes to you with a surplus of games! But let that not distra
 * nja Alila translated Norway's 1967 entry for Eurovision [Dukkemann](https://www.youtube.com/watch?v=af2Y-x0fCzk)!
 * ciandoesstuff translated [Charlie's Inferno](https://www.youtube.com/watch?v=MhU2isD8tHY) by That Handsome Devil!
 
-### Videos in toki pona!
+### Videos in toki pona
 
 * jan Nikola did [card tricks](https://seka.pona.la/w/7gc3RAWQsiRjm3stzYtFMY) (watch until the end)!
 * jan Jami and mun Mekuwi made live commentary on a motorsport event! You can watch an archived version of [some highlights of the Australian Grand Prix 2026](https://drive.google.com/drive/folders/1zR8_4LSWg-2XlRihhNcGSybNdLu4vOS5)
 * jan Polijan watched some [sunbeams](https://www.youtube.com/watch?v=3QedssXar5w)!
 * jan Lakuse made a video [promoting the writing contest](https://youtu.be/Q_gpbOPrbxg)!
 
-### Comics!
+### Comics
 * akesi Sami published chapter 7 of toki pona Knight: The Market [part 1](https://www.reddit.com/r/tokipona/s/tvTCmhG8DO), [part 2](https://www.reddit.com/r/tokipona/s/dqkS1xRBCg)!
 * jan Pikesike continued translating the manga Bocchi The Rock up to [chapter 22](https://cubari.moe/read/gist/cmF3L1BpeGVsWnl4ZWwvamFuLVBva2ktbGkta2FsYW1hLXdhd2EvbWFpbi9qYW4lMjBQb2tpJTIwbGklMjBrYWxhbWElMjB3YXdhIS5qc29u/) ([alt link](https://www.dropbox.com/scl/fo/9serigwak92vhtbzyhqkt/AMt9MZL5IzKZNwtndMDXfig?rlkey=kqsx47fzahihlufpxlyys7sn7&st=2xyk026i&dl=0))!
 * soweli Nalin translated some Pixie and Brutus comics from @pet_foolery!
@@ -40,7 +40,7 @@ Today's newsletter comes to you with a surplus of games! But let that not distra
   * movie: [1](http://web.archive.org/web/20260710084119/https://cdn.discordapp.com/attachments/301380012156911616/1525057452297420921/1.png?ex=6a51ffee&is=6a50ae6e&hm=26cfafa1a23614bdb3ea4034d20dce29d8cc84da130db31b5680f7b04d3d9e7a&), [2](http://web.archive.org/web/20260710084142/https://cdn.discordapp.com/attachments/301380012156911616/1525057452670845000/2.png?ex=6a51ffee&is=6a50ae6e&hm=4eeacade915aabbe18d45d50467f827766037e189f02687a71374d770b8d5ac0&), [3](http://web.archive.org/web/20260710084146/https://cdn.discordapp.com/attachments/301380012156911616/1525057453123702885/3.png?ex=6a51ffef&is=6a50ae6f&hm=86d6558d190548ac9bbf9e42283e19fa4e9a9f0cb7d931cb59f3c993bd88c641&), [4](http://web.archive.org/web/20260710084248/https://cdn.discordapp.com/attachments/301380012156911616/1525057453417435146/4.png?ex=6a51ffef&is=6a50ae6f&hm=32564a9bea815bd923a9aba3a29d3aa523cc3471a1354ec73e9655af286f4f5d&), [5](http://web.archive.org/web/20260710084422/https://cdn.discordapp.com/attachments/301380012156911616/1525057454055096400/5.png?ex=6a51ffef&is=6a50ae6f&hm=5863f7aa7d77cb194f55c4d757e886c11a75c45b0a9b69227aaf056d2b543d15&)
 * jan Ke Tami published a new [kijetesankalu o!](https://janketami.wordpress.com/2026/07/10/kijetesanctober-26-2/) comic
 
-### Games!
+### Games
 
 Before we go into the game jam, there are actually games that have been made and have been played outside of the contest:
 
@@ -50,7 +50,7 @@ Before we go into the game jam, there are actually games that have been made and
 * jan Kekan San [finished chapter 4 and started chapter 5](https://youtu.be/5Z3n8-bCGKk) of Deltarune, and then [continued playing chapter 5](https://www.youtube.com/watch?v=QSDuOS3W7q4)!
 * jan Jopa played [Ori and the Will of the Wisps](https://seka.pona.la/w/d4K86UXQktAHj6Gg1HN4ZV)!
 
-### Game jam!
+### Game jam
 
 The [pali musi](https://itch.io/jam/tu) game jam is over, and the votes are in! Here are some videos about the projects:
 
@@ -60,7 +60,7 @@ The [pali musi](https://itch.io/jam/tu) game jam is over, and the votes are in! 
 
  You can play all of these new original games. Have fun!
 
-#### Digital games!
+#### Digital games
 1. [uta(la) telo](https://snugpig.itch.io/utala-telo) by jan Sunpi: You're a vampire, flying around as a bat! Fight against enemies while keeping your blood intake high.
 2. [O AWEN E TOMO SUNO!](https://honeyjuice.itch.io/o-awen-e-tomo-suno) by poki Onitusu: You're a boat! Your mission: Protect the lighthouse!
 3. [o telo e ale](https://mitchellfielder.itch.io/o-telo-e-ale) by jan Nitan: Throw water balloons without getting hit by water balloons enemies throw at you!
@@ -90,13 +90,13 @@ The [pali musi](https://itch.io/jam/tu) game jam is over, and the votes are in! 
 28. [ToWeR](https://duda-kmm.itch.io/tower-defense) by Duda_KMM: Defend a village from monsters!
 29. [utala pi kama sona](https://meepymeeper123.itch.io/utala-pi-kama-sona) by jan Mepi and jan Jako: You're a sike! Navigate through a series of levels!
 
-#### Analogue games!
+#### Analogue games
 
 30. [esun ka](https://carminecassie.itch.io/esun-ka) by loje Kasenwa: A two-player lyric game about an eternal conflict between telo and ma!
 31. [kiwennasa](https://tenpi.itch.io/kiwennasa) by tonsi Tenpi: A monster fighting card duel!
 32. [kala li wile weka tan poki](https://retsamys.itch.io/kala-li-wile-weka-tan-poki) by jan Ke Tami: A narrative-based escape room with TTRPG elements in which fish flee from a predator and get trapped in a cave!
 
-### Reading!
+### Reading
 
 * jan Asilu wrote a [blog about their child learning about music](https://mitokipona.bearblog.dev/jan-silu-li-kama-sona-e-kalama-musi/)!
 * Phototropism translated a page about [Removed Content](https://animal-hospital.fandom.com/wiki/User_blog:Ektdobaefq/I_translated_the_page_%22Removed_Content%22_on_this_wiki_to_Toki_Pona%2E) from the Animal Hospital game!
@@ -104,14 +104,14 @@ The [pali musi](https://itch.io/jam/tu) game jam is over, and the votes are in! 
 * Salt_Ad4538 made a [leko nimi poem](https://www.reddit.com/r/tokipona/comments/1ugk7ut/mi_sitelen_e_toki_leko_musi/)!
 * jan Usawi shared fae's perspective [on the word "musi"](https://natanyausawi.substack.com/p/ni-li-musi-taso) (English)!
 
-### Cool graphics!
+### Cool graphics
 
 * soweli suli makes sitelen suwi art: [o olin e soweli Taka](https://www.tumblr.com/soweli-suli/821501435253506049/o-olin-e-soweli-taka-03), [tonsi](https://www.tumblr.com/soweli-suli/821328084757299200/tonsi), [jan pona kin](https://www.tumblr.com/soweli-suli/820778730483073024/jan-pona-kin), [jaki mama](https://www.tumblr.com/soweli-suli/820861887028854784/jaki-mama)!
 * noneuclideanchip drew a [character](https://www.tumblr.com/noneuclideanchip/821183136036765696/art-fight-attack-for-smolmoss-i-dont-have-my) for art fight!
 * tonsimonsi made a [meme about "o"](https://www.tumblr.com/tonsimonsi/820990824150106112)!
 * lukin ilo [identifies objects in photos](https://www.tumblr.com/lukin-ilo/821337772276301824/kulupu-ilo-kala) in toki pona!
 
-### Resources!
+### Resources
 
 * kasi Lija made a [UTAU for toki pona](https://kasilija.neocities.org/pali/ilomupa)!
 * soweli Nalin made a way to add [sitelen pona to Trilium Notes](https://rentry.co/krcxt8wx)!
