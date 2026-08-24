@@ -41,7 +41,7 @@ How much have things changed already? We'll find out, there are a couple of surv
 * jan Ansi translated [Love, Older You](https://youtube.com/watch?v=U5BySM1lp2I) by ILLIT!
 * melbug translated ⚂[Cutie Mew Mew Magic](https://youtube.com/watch?v=pS5hAR1Qtg8) by Toby Fox!
 * nja Alila translated [Skitur](https://youtube.com/watch?v=JJEo4wA0h6I) by Ivar Børsum and Bjørn Hornmoen 
-* (てつ)² / tetsusquared translated [RetasuP](https://youtube.com/watch?v=JIwQn1GOlPU) by Toluthin Antenna!
+* (てつ)² / tetsusquared translated [Toluthin Antenna](https://youtube.com/watch?v=JIwQn1GOlPU) by RetasuP!
 * jan Ansi translated ⚂[the cure](https://youtube.com/watch?v=ATy_VkXrIJk) by Olivia Rodrigo!
 * jan Ansi translated ⚂[Superscar](https://youtube.com/watch?v=NJ789WHZskk) by Adéla!
 * jan Ansi translated ⚂[A Pearl](https://youtube.com/watch?v=v5ktAxClp3U) by Mitski!
